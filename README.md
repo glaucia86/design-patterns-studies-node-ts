@@ -1,6 +1,5 @@
 # Design Patterns Studies Cases with: Node.Js & TypeScript 
 
-
 Repositório responsável por realizar estudos pessoais de como adotar Design Patterns em Node.Js & TypeScript. É um acumulado de estudos capturados da Comunidade em: artigos, livros, vídeos e blog posts sobre o assunto.
 
 ## 🚀 Recursos Utilizados 
@@ -24,15 +23,13 @@ Aqui, segue artigos, livros, vídeos, tutoriais, cursos baseados nesses estudos 
 
 ## 📌 Link dos Códigos desenvolvidos de cada recurso!
 
-- **[Recurso: 01]()**
-- **[Recurso: 02]()**
-- **[Recurso: 03]()**
-- **[Recurso: 04]()**
-- **[Recurso: 05]()**
-
+- **[Recurso: 01](./recurso-01/README.md)**
+- **[Recurso: 02](./recurso-02/README.md)**
+- **[Recurso: 03](./recurso-03/README.md)**
+- **[Recurso: 04](./recurso-04/README.md)**
+- **[Recurso: 05](./recurso-05/README.md)**
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
 Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/design-patterns-studies-node-ts/issues)**. Assim que possível, estarei respondendo a todas as dúvidas que tiverem!
 
-**(documentação em desenvolvimento)**
