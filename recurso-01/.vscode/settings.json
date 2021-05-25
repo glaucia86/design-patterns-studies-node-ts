@@ -1,0 +1,9 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "cls && npx ts-node --files --transpile-only",
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+  }
+}
