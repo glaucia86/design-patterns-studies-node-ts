@@ -4,9 +4,9 @@
 
 ## 💻 Coisas Aprendidas
 
-- [] Padrões de Projeto (Design Patterns - GoF) - Introdução - Parte 1/45
-- [] Padrões de Projeto - UML Básico - Parte 2/45
-- [] Padrões de Projeto - Configurando um projeto TypeScript - Parte 3/45
+- [x] Padrões de Projeto (Design Patterns - GoF) - Introdução - Parte 1/45
+- [x] Padrões de Projeto - UML Básico - Parte 2/45
+- [x] Padrões de Projeto - Configurando um projeto TypeScript - Parte 3/45
 - [] Singleton Teoria - Padrões de Projeto - Parte 4/45
 - [] Singleton Prática - Padrões de Projeto - Parte 5/45
 - [] Builder Teoria - Padrões de Projeto - Parte 6/45
