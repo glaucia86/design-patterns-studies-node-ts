@@ -1,0 +1,15 @@
+{
+  "name": "recurso-01",
+  "version": "1.0.0",
+  "description": "- ✅ **[Recurso: 01 - Canal do Youtube - Otávio Miranda: Padrões de Projeto - Design Patterns (GoF)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
