@@ -1,6 +1,6 @@
 # Design Patterns Study Cases with: Node.Js & TypeScript
 
-Repositório responsável por realizar estudos pessoais de como adotar Design Patterns em Node.Js & TypeScript. É um acumulado de estudos capturados da Comunidade em: artigos, livros, vídeos e blog posts sobre o assunto.
+Repositório responsável por realizar estudos pessoais de como adotar Design Patterns em Node.Js & TypeScript. É um acumulado de estudos capturados da Comunidade em: artigos, livros, cursos, vídeos e blog posts sobre o assunto.
 
 ## 🚀 Recursos Utilizados
 
