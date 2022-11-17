@@ -14,7 +14,7 @@ Repositório responsável por realizar estudos pessoais de como adotar Design Pa
 
 Aqui, segue artigos, livros, vídeos, tutoriais, cursos baseados nesses estudos de Design Patterns
 
-- ✅ **[Recurso: 01 - Canal do Youtube - Otávio Miranda: Padrões de Projeto - Design Patterns (GoF)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)**
+- ✅ **[Recurso: 01 - Curso: TypeScript by HCode](https://www.hcode.com.br/cursos/typescript)**
 - ✅ **[Blog Post - Refactoring Guru](https://refactoring.guru/pt-br/design-patterns)**
 - ✅ **[Recurso: 02 - Livro - TypeScript Design Patterns](https://g.co/kgs/bpehza)**
 - ✅ **[Recurso: 03 - Video Course - Design Patterns in TypeScript](https://learning.oreilly.com/videos/design-patterns-in/9781789347951)**
