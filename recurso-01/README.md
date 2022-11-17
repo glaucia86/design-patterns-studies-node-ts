@@ -4,8 +4,8 @@
 
 ## 💻 Coisas Aprendidas
 
-- [] Introdução ao TypeScript
-- [] Configurando Ambiente
+- [x] Introdução ao TypeScript
+- [x] Configurando Ambiente
 - [] Conhecendo os Tipos
 - [] Funções com TypeScript
 - [] Interfaces
