@@ -5,3 +5,8 @@
  * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
  */
 
+function showError(message: string): never {
+  throw new Error();
+}
+
+showError("An error occurred");
