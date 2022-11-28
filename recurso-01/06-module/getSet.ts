@@ -19,7 +19,7 @@ class Permissao {
 
   set setNome(novoNome: string) {
     if (novoNome.length < 5) {
-      throw new Error('Nome inválido!');
+      throw new Error('O nome da permissão deve ter mais de 5 caracteres!');
     }
 
     this._nome = novoNome;
@@ -27,5 +27,10 @@ class Permissao {
 }
 
 const permissao = new Permissao('Administrador', 1);
+console.log(permissao.getNome);
+
+// Testando o Set:
+permissao.setNome = 'ADM';
 console.log(permissao.setNome);
+
 
