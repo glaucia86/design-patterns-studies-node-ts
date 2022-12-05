@@ -5,10 +5,7 @@
  * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
  */
 
-function mostrarMensagem(texto: string): boolean {
-  console.log(texto);
-  return true;
-}
+import mostrarMensagem from '../scripts/functions/mostrarMensagem';
 
 console.log(mostrarMensagem('Olá, Glaucia Lemos!'));
 
