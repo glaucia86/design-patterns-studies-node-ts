@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns-studies-node-ts",
+  "version": "1.0.0",
+  "description": "Repositório responsável por realizar estudos pessoais de como adotar Design Patterns em Node.Js & TypeScript. É um acumulado de estudos capturados da Comunidade em: artigos, livros, cursos, vídeos e blog posts sobre o assunto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/design-patterns-studies-node-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaucia86/design-patterns-studies-node-ts/issues"
+  },
+  "homepage": "https://github.com/glaucia86/design-patterns-studies-node-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
