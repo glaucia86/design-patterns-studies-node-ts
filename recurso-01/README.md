@@ -6,13 +6,13 @@
 
 - [x] Introdução ao TypeScript
 - [x] Configurando Ambiente
-- [] Conhecendo os Tipos
-- [] Funções com TypeScript
-- [] Interfaces
-- [] Orientação a Objetos
-- [] Módulos
-- [] Namespaces
-- [] Mixins
+- [x] Conhecendo os Tipos
+- [x] Funções com TypeScript
+- [x] Interfaces
+- [x] Orientação a Objetos
+- [x] Módulos
+- [x] Namespaces
+- [x] Mixins
 - [] Generics
 - [] Decorators
 - [] Projeto Final com TypeScript
